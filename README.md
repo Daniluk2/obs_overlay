@@ -68,8 +68,8 @@ You can choose your own PNG/GIF/JPG icons, slide the notification in from any ed
 | **Icon: Recording Saved**  | Path to image for “Recording Saved”                              | *(empty)*      |
 | **Icon: Replay Enabled**   | Path to image for “Replay Enabled”                               | *(empty)*      |
 | **Icon: Replay Saved**     | Path to image for “Replay Saved”                                 | *(empty)*      |
-| **Max icon size (px)**     | Largest width/height for auto-scaling                            | 40             |
-| **Padding (px)**           | Horizontal padding between dual icons                            | 10             |
+| **Max icon size (px)**     | Largest width/height for auto-scaling                            | 20             |
+| **Padding (px)**           | Horizontal padding between dual icons                            | 5              |
 | **Overlay width/height**   | Fixed dimensions (0 = auto-size)                                 | 0 / 0          |
 | **Offset X/Y (px)**        | Additional horizontal/vertical shift                             | 0 / 0          |
 | **Slide steps**            | Number of animation frames for slide-in                          | 35             |
